@@ -1,0 +1,75 @@
+{
+"tagListArray": [
+{
+"tagListID": 2,
+"tagListName": "2",
+"tags": [
+         {
+         "actionId": "-1",
+         "title": "全部",
+         "isSelected":true
+         },
+         {
+         "actionId": "0",
+         "title": "免费"
+         },
+         {
+         "actionId": "1",
+         "title": "包月"
+         },
+         {
+         "actionId": "6",
+         "title": "收费"
+         }
+        ],
+    },
+{
+"tagListID": 3,
+"tagListName": "3",
+"tags": [
+         {
+         "actionId": "-1",
+         "title": "全部",
+         "isSelected":true
+         },
+         {
+         "actionId": "1",
+         "title": "完结",
+         "isSelected":false
+         },
+         {
+         "actionId": "0",
+         "title": "连载"
+         },
+         {
+         "actionId": "2",
+         "title": "节选"
+         }
+        ],
+    },
+{
+"tagListID": 4,
+"tagListName": "4",
+"tags": [
+         {
+         "actionId": "6",
+         "title": "按人气",
+         "isSelected":true
+         },
+         {
+         "actionId": "2",
+         "title": "按最新",
+         "isSelected":false
+         },
+         {
+         "actionId": "3",
+         "title": "按收藏"
+         },
+         {
+         "actionId": "9",
+         "title": "按字数"
+         }
+        ],
+    }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+
+"count": {
+"bookCount": 310601,
+"categoryFlag": 2,
+"newBookCount": 1927
+},
+
+"girlCategoryList":  [
+                      {
+                     "categoryName": "古代言情",
+                     "level3categoryName": "穿越奇情/古典架空/经商种田/女尊王朝/古代情缘/宫闱宅斗",
+                     "bookCount": 44818,
+                     "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902577322.jpg",
+                     "actionId": 30013,
+                     "recommend": false
+                     },
+                      {
+                     "categoryName": "现代言情",
+                     "level3categoryName": "豪门世家/商战职场/婚恋情缘/极道江湖/异术超能/官场沉浮/都市生活/民国情缘/娱乐明星",
+                     "bookCount": 36486,
+                     "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902583281.jpg",
+                     "actionId": 30020,
+                     "recommend": false
+                     },
+                      {
+                     "categoryName": "玄幻言情",
+                     "level3categoryName": "异世大陆/远古神话/东方玄幻/魔法幻情/西方奇幻/异族恋情",
+                     "bookCount": 14912,
+                     "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902561949.jpg",
+                     "actionId": 30001,
+                     "recommend": false
+                     },
+                      {
+                     "categoryName": "仙侠奇缘",
+                     "level3categoryName": "古典仙侠/武侠情缘/洪荒传说/现代修真",
+                     "bookCount": 4727,
+                     "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902571167.jpg",
+                     "actionId": 30008,
+                     "recommend": false
+                     },
+                      {
+                     "categoryName": "浪漫青春",
+                     "level3categoryName": "青春疼痛/叛逆成长/青春校园/青春纯爱",
+                     "bookCount": 17955,
+                     "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902589869.jpg",
+                     "actionId": 30031,
+                     "recommend": false
+                     },
+                      {
+                     "categoryName": "游戏竞技",
+                     "level3categoryName": "游戏异界/网游情缘/电子竞技/体育竞技",
+                     "bookCount": 1134,
+                     "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902614391.jpg",
+                     "actionId": 30050,
+                     "recommend": false
+                     },
+                      {
+                     "categoryName": "科幻空间",
+                     "level3categoryName": "未来世界/进化变异/超级科技/末世危机/星际恋歌/时空穿梭/古武机甲",
+                     "bookCount": 1850,
+                     "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902604995.jpg",
+                     "actionId": 30042,
+                     "recommend": false
+                     },
+                      {
+                     "categoryName": "悬疑灵异",
+                     "level3categoryName": "悬疑探险/灵异鬼怪/推理侦探/恐怖惊悚/神秘文化",
+                     "bookCount": 1922,
+                     "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902596702.jpg",
+                     "actionId": 30036,
+                     "recommend": false
+                     },
+                      {
+                     "categoryName": "同人小说",
+                     "level3categoryName": "武侠同人/动漫同人/小说同人/影视同人/游戏同人",
+                     "bookCount": 2117,
+                     "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902621025.jpg",
+                     "actionId": 30055,
+                     "recommend": false
+                     }
+                     ],
+"line":  {
+"title": "以下分类推荐男生阅读"
+},
+
+"boyCategoryList":  [
+                     {
+                    "categoryName": "玄幻",
+                    "level3categoryName": "东方玄幻/异界大陆/异界争霸/远古神话",
+                    "bookCount": 75133,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902409028.jpg",
+                    "actionId": 20001,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "奇幻",
+                    "level3categoryName": "西方奇幻/魔法校园/亡灵异族/领主贵族",
+                    "bookCount": 5471,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902433744.jpg",
+                    "actionId": 20005,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "武侠",
+                    "level3categoryName": "传统武侠/国术武技/新派武侠",
+                    "bookCount": 3544,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902424738.jpg",
+                    "actionId": 20010,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "仙侠",
+                    "level3categoryName": "洪荒封神/古典仙侠/幻想修仙/现代修仙",
+                    "bookCount": 21413,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902441431.jpg",
+                    "actionId": 20014,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "都市",
+                    "level3categoryName": "爱情婚姻/现实百态/恩怨情仇/都市生活/青春校园/异术超能",
+                    "bookCount": 32021,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902448144.jpg",
+                    "actionId": 20019,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "职场",
+                    "level3categoryName": "官场沉浮/娱乐明星/商战职场",
+                    "bookCount": 2420,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902512875.jpg",
+                    "actionId": 20065,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "历史",
+                    "level3categoryName": "架空历史/上古先秦/秦汉三国/两晋隋唐/五代十国/两宋元明/清史民国/外国历史/历史传记",
+                    "bookCount": 8007,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902456940.jpg",
+                    "actionId": 20028,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "军事",
+                    "level3categoryName": "军事战争/军旅生涯/谍战特工/抗战烽火/战争幻想",
+                    "bookCount": 1986,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902463599.jpg",
+                    "actionId": 20032,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "游戏",
+                    "level3categoryName": "游戏生涯/虚拟网游/电子竞技/游戏异界",
+                    "bookCount": 9991,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902487478.jpg",
+                    "actionId": 20050,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "竞技",
+                    "level3categoryName": "弈林春秋/篮球运动/体育竞技/足球运动",
+                    "bookCount": 1145,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902495506.jpg",
+                    "actionId": 20054,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "科幻",
+                    "level3categoryName": "进化变异/超级科技/古武机甲/时空穿梭/未来世界/末世危机/星际战争",
+                    "bookCount": 13033,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902477243.jpg",
+                    "actionId": 20042,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "灵异",
+                    "level3categoryName": "灵异奇谈/推理侦探/恐怖惊悚/悬疑探险",
+                    "bookCount": 6554,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902470015.jpg",
+                    "actionId": 20037,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "同人",
+                    "level3categoryName": "影视同人/武侠同人/游戏同人/动漫同人/小说同人",
+                    "bookCount": 2621,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902505179.jpg",
+                    "actionId": 20059,
+                    "recommend": false
+                    },
+                     {
+                    "categoryName": "短篇",
+                    "level3categoryName": "童话故事/评论文集/影视剧本/美文游记/生活随笔",
+                    "bookCount": 1349,
+                    "img": "http://wfqqreader.3g.qq.com/cover/view_data/view_data_1430902548247.jpg",
+                    "actionId": 20076,
+                    "recommend": false
+                    }
+                    ],
+
+}

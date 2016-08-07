@@ -1,0 +1,32 @@
+
+
+{
+
+    config =     (
+    {
+        month = 1;
+        isopen = 0;
+        gift  = "";
+        yuan = 12;
+    },
+    {
+        month = 3;
+        isopen = 0;
+        gift  = "";
+        yuan = 30;
+    },
+    {
+        month = 6;
+        isopen = 0;
+        gift  = "";
+        yuan = 60;
+    },
+    {
+        month = 12;
+        isopen = 0;
+        gift  = "";
+        yuan = 118;
+    }
+    );
+
+}

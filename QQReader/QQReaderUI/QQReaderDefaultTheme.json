@@ -1,0 +1,224 @@
+{
+  "kThemeInfo":{
+      "Version" : "1000",
+      "themeId" : "2000",
+      /*=========== 警告 ：默认主题json文件不可删除，如要修改请保证JSON格式和默认值正确 ===========*/
+      "themeName":"默认主题",
+  },
+
+  /* ############################ 图片类 ################################# */
+  "kGlobalQRImage" : {
+  /* === 导航条 === */
+  /* 导航条背景图片 */
+  "kGlobalQRImageTopNavibarBgImage" : "",
+  
+  /* === 书架 === */
+  /*签到视窗的背景图片*/
+  "kGlobalQRImageDailyCheckinBgImage" : "",
+  /*签到按钮常态的背景图片*/
+  "kGlobalQRImageDailyCheckinButtonBackgroundNormal" : "DCButton",
+  /*签到按钮按下的背景图片*/
+  "kGlobalQRImageDailyCheckinButtonBackgroundHighlight" : "DCButton_pressed",
+  /*签到视窗下拉后那一块的背景图片*/
+  "kGlobalQRImageDailyCheckinShelfBgImage" : "",
+  /*书架导航栏右边更多列表里的导入书籍图标*/
+  "kGlobalQRImageShelfTopNaviMoreListImportBookIcon" : "bookshelf_menu_import",
+  /*书架导航栏右边更多列表里的列表模式图标*/
+  "kGlobalQRImageShelfTopNaviMoreListListModeIcon" : "bookshelf_menu_category_list",
+  /*书架导航栏右边更多列表里的书封模式图标*/
+  "kGlobalQRImageShelfTopNaviMoreListBookModeIcon" : "bookshelf_menu_grid",
+  /*书架导航栏右边更多列表里的书架分组图标*/
+  "kGlobalQRImageShelfTopNaviMoreListGroupIcon" : "bookshelf_menu_category_grid",
+  /*书架导航栏右边更多列表里的编辑图标*/
+  "kGlobalQRImageShelfTopNaviMoreListEditIcon" : "bookshelf_menu_setting",
+  /*书架导航栏右边更多列表里的收起/展开签到图标*/
+  "kGlobalQRImageShelfTopNaviMoreListCheckInIcon" : "bookshelf_menu_daily",
+  /*书架的书的默认外部导入书封*/
+  "kGlobalQRImageShelfBookDefaultCover":"default_book_cover",
+  
+  /* === 书库 === */
+  /*书库总结条小图标*/
+  "kGlobalQRImageBookLibSummaryIcon" : "bookstacks_book",
+  
+  /* === 底部tabbar === */
+  /*第N个Tab的常规图片*/
+  "kGlobalQRImageTabbarFirstTabNormalImage" : "tabbar_book_library",
+  /*第N个Tab的选中图片*/
+  "kGlobalQRImageTabbarFirstTabHighlightImage" : "tabbar_book_library_hl",
+  "kGlobalQRImageTabbarSecondTabNormalImage" : "tabbar_book_selected",
+  "kGlobalQRImageTabbarSecondTabHighlightImage" : "tabbar_book_selected_hl",
+  "kGlobalQRImageTabbarThirdTabNormalImage" : "tabbar_book_stack",
+  "kGlobalQRImageTabbarThirdTabHighlightImage" : "tabbar_book_stack_hl",
+  "kGlobalQRImageTabbarFouthTabNormalImage" : "tabbar_book_fund",
+  "kGlobalQRImageTabbarFouthTabHighlightImage" : "tabbar_book_fund_hl",
+  /*tabbar背景图片*/
+  "kGlobalQRImageTabbarBgImage" : "",
+  
+  /* ===  侧边栏 === */
+  /*背景图片*/
+  "kGlobalQRImage_LeftSlideView_BgImg" : "slide_bg",
+  /*用户头像背景*/
+  "kGlobalQRImage_LeftSlideView_UserIconBgImg" : "",
+  /*上下切换广告条背景*/
+  "kGlobalQRImage_LeftSlideView_AdBgImg" : "adbg",
+  /*设置按钮背景normal*/
+  "kGlobalQRImage_LeftSlideView_SetImgNormal" : "pc_icon_set",
+  /*夜间模式按钮背景normal*/
+  "kGlobalQRImage_LeftSlideView_NightModeImgNormal" : "pc_icon_night",
+  
+  /* ===  精选 === */
+  /*头部广告背景图片*/
+  "kGlobalQRImage_FeedFlow_TableHeaderBgView" : "",
+  /*左滑删除背景图片*/
+  "kGlobalQRImage_FeedFlow_CellSlideDelete" : "",
+  /*cell 左滑删除动画图片*/
+  "kGlobalQRImage_FeedFlow_CellSlideDeleteAnimation":"",
+   /*头部广告里的斜的书的“努力加载中”的图*/
+  "kGlobalQRImageFeedFlowTableHeaderBookPlaceholder":"feedflow_headerad_bookcover",
+
+  /* ===  书籍详情 === */
+  /*书籍详情正下方免费试读后面的蓝色底部图*/
+  "kGlobalQRImageBookDetailPageReadBookButtonBgNormal":"bookdetail_read",
+  "kGlobalQRImageBookDetailPageReadBookButtonBgHighlight":"bookdetail_read_hl",
+  /*书籍详情进入的目录页的选择章节按钮（篮框）*/
+  "kGlobalQRImageBookDetailPageCatalogViewButtonBgNormal":"chapter_pull_down",
+  "kGlobalQRImageBookDetailPageCatalogViewButtonBgHighlight":"chapter_pull_down_hl",
+  /*书籍详情左下角的下载圈圈*/
+  "kGlobalQRImageBookDetailPageDownloadAnimation":"bookdetail_quan",
+
+  /* === 通用 === */
+  /*全局的圆形蓝底选中对勾的图*/
+  "kGlobalQRImageSelectedIcon" : "batch_selected",
+  /*类似人气榜中的书封左上角的四分之一圆角图*/
+  "kGlobalQRImageBookCoverCorner":"monthly_first",
+  /*下拉刷新时那个旋转的圈圈的图*/
+  "kGlobalQRImagePullDownRefresh":"card_refresh",
+  /*全局的提示红点图片*/
+  "kGlobalQRImageRedPoint":"book_new",
+  },
+  
+  
+  
+  /* ############################ 字体颜色类 ################################# */
+  "kGlobalQRTextColor" : {
+  /* === 导航条 === */
+  /* 导航条里的文字颜色 */
+  "kGlobalQRTextColorTopNaviBarCommonColor" : "#6ca3d9",
+  
+  /* === 书架 === */
+  /*签到按钮常态颜色*/
+  "kGlobalQRTextColorDailyCheckinButtonNormal" : "#ffffff",
+  /*签到按钮高亮颜色*/
+  "kGlobalQRTextColorDailyCheckinButtonHighlight" : "#ffffff",
+  /*签到视窗那几句“本周已签X天”的颜色*/
+  "kGlobalQRTextColorDailyCheckinInfo" : "#ffffff",
+  /*书架力荐广告条文字颜色*/
+  "kGlobalQRTextColorShelfAdCell" : "#5a86b3",
+  /*书架导航条右边等多选项里面列表的文字颜色*/
+  "kGlobalQRTextColorShelfTopNaviMoreList" : "#000000",
+  
+  /* === 书库 === */
+  /*书库顶部滑动选择器常规颜色*/
+  "kGlobalQRTextColorBookLibTopSliderNormal" : "#cce6ff",
+  /*书库顶部滑动选择器高亮颜色*/
+  "kGlobalQRTextColorBookLibTopSliderHighlight" : "#5986bf",
+  /*书库总结条常规文字颜色*/
+  "kGlobalQRTextColorBookLibSummaryNormal" : "#666666",
+  /*书库总结条加深文字颜色*/
+  "kGlobalQRTextColorBookLibSummaryHighlight" : "#6ca3d9",
+  
+  /* === 底部Tabbar === */
+  /*底部tabbar文字常规颜色*/
+  "kGlobalQRTextColorTabbarItemNormal" : "0x999999",
+  /*底部tabbar文字高亮颜色*/
+  "kGlobalQRTextColorTabbarItemHighlight" : "0x6699CC",
+  
+  /* === 侧边栏 === */
+  /*用户名称*/
+  "kGlobalQRTextColor_LeftSlideView_UserNameLabel" : "#DDE3E7",
+  /*最近阅读*/
+  "kGlobalQRTextColor_LeftSlideView_LastReadLabel" : "#597080",
+  /*上下切换广告条文字颜色*/
+  "kGlobalQRTextColor_LeftSlideView_AdLabel" : "#dde3e7",
+  /*设置按钮文字normal颜色*/
+  "kGlobalQRTextColor_LeftSlideView_SetTitleNormal" : "#DDE3E7",
+  /*夜间模式按钮文字normal颜色*/
+  "kGlobalQRTextColor_LeftSlideView_NightModeTitleNormal" : "#DDE3E7",
+  /*侧边栏里 列表文字的颜色*/
+  "kGlobalQRTextColor_LeftSlideView_ListLabel":"0xDDE3E7",
+
+  /* === 书库->筛选页（就是二级页）=== */
+  /*筛选页上面筛选视窗里的文字常态色*/
+  "kGlobalQRTextColorCatagoryPageTopFilterNormal":"#ffffff",
+  /*筛选页上面筛选视窗里的文字高亮色*/
+  "kGlobalQRTextColorCatagoryPageTopFilterSelected":"0xcce6ff",
+
+  /* === 通用 === */
+  /*二级页面里一个栏目下面的横向单元格里的文字颜色(例如 查看更多)*/
+  "kGlobalQRTextColorTableViewSectionBottomCell":"#5986B3",
+  /*所有非主tab页(例如书籍详情，搜索，名人堂，书库等等)的需要使用主题色的文字色值*/
+  "kGlobalQRTextColorNeedThemeCommonColorNonMainTabPage":"0x6ca3d9"
+  },
+  
+  
+  
+  /* ############################ View背景色类 ################################# */
+  "kGlobalQRViewColor" : {
+  /* === 导航条 === */
+  /* 导航条背景色 */
+  "kGlobalQRViewTopNaviBarCommonBgColor" : "0x6ca3d9",
+  /*导航条里icon元素的色值*/
+  "kGlobalQRViewColorTopNaviBarIcon":"#ffffff",
+  
+  /* === 书架 === */
+  /* 签到视窗的背景色 */
+  "kGlobalQRViewColorDailyCheckinBgColor" : "0x6ca3d9",
+  /* 签到视窗下拉后的那块区域的背景色 */
+  "kGlobalQRViewColorDailyCheckinShelfBgColor" : "0x6ca3d9",
+  /*书架导航栏右边更多列表里的icon的色值*/
+  "kGlobalQRViewColorShelfTopNaviMoreListIconColor" : "0x6ca3d9",
+  
+  /* === 底部tabbar === */
+  /* tabbar的背景色 */
+  "kGlobalQRViewColorTabbarBgColor" : "#ffffff",
+  
+  /* === 精选 === */
+  /* 精选下拉时上方的背景视图颜色 */
+  "kGlobalQRViewColor_FeedFlow_TableBgView" : "#6ca3d9",
+  /*精选头部广告背景颜色*/
+  "kGlobalQRViewColor_FeedFlow_HeaderBg" : "#6ca3d9",
+  
+  /* === 侧边栏 === */
+  /*侧边栏里那根分割线*/
+  "kGlobalQRViewColor_LeftSlideView_SepLine":"0x30363a",
+  /* cell背景正常 */
+  "kGlobalQRViewColor_LeftSlideView_CellNormal" : "#00000000",
+  /* cell背景选中 */
+  "kGlobalQRViewColor_LeftSlideView_CellSelect" : "#52242a2f",
+  /*侧边栏里icon的色值 （设置的除外）*/
+  "kGlobalQRViewColor_LeftSlideView_CellIcon":"0xDDE3E7",
+
+  /* === 书库->筛选页（就是二级页）=== */
+  /*筛选页上面筛选视窗的背景色*/
+  "kGlobalQRViewColorCatagoryPageTopFilterBg":"0x5a86b3",
+  /*筛选页上面筛选视窗里的分割线的颜色*/
+  "kGlobalQRViewColorCatagoryPageTopFilterSepLine":"0x4d7399",
+
+  /* === 通用 === */
+  /*所有非主tab页(例如书籍详情，搜索，名人堂，书库等等)的需要使用主题色的视图色值*/
+  "kGlobalQRViewColorNeedThemeCommonColorNonMainTabPage":"0x6ca3d9",
+  },
+
+
+    /* ############################ 阅读页相关的 ################################# */
+    "kGlobalQRReadbookView" : {
+        /*本主题是否有配主题专用阅读背景， 没有就空着*/
+        "kGlobalQRReadViewBackgroundImage" :"",
+        /*主题专用阅读背景阅览icon， 没有就空着*/
+        "kGlobalQRReadViewBackgroundImageIcon" :"",
+        /*阅读灯绳*/
+        "kGlobalQRReadViewRope" :"read_light_rope",
+        /*阅读灯绳夜间*/
+        "kGlobalQRReadViewRopeNight":"read_light_rope_night",
+    }
+}

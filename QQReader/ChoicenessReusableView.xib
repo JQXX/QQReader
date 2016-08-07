@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionReusableView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="U6b-Vx-4bR" customClass="ChoicenessReusableView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="260"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JQt-gC-ZbH">
+                    <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <variation key="widthClass=compact" fixedFrame="YES">
+                        <rect key="frame" x="0.0" y="210" width="375" height="50"/>
+                    </variation>
+                    <connections>
+                        <action selector="xinshouBtnClick:" destination="U6b-Vx-4bR" eventType="touchUpInside" id="Id4-30-Dpg"/>
+                    </connections>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="head_book.png" translatesAutoresizingMaskIntoConstraints="NO" id="6PD-fu-S5A">
+                    <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                    <color key="backgroundColor" red="0.40000000600000002" green="0.80000001190000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <variation key="widthClass=compact" fixedFrame="YES">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="210"/>
+                    </variation>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="feedFlowRec_newuser.png" translatesAutoresizingMaskIntoConstraints="NO" id="mRC-px-IUS">
+                    <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                    <variation key="widthClass=compact" fixedFrame="YES">
+                        <rect key="frame" x="8" y="221" width="30" height="30"/>
+                    </variation>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="新手专区" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="v8J-4n-0e7">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <color key="textColor" red="0.076199478317890645" green="1" blue="0.43058539702028309" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                    <variation key="widthClass=compact" fixedFrame="YES">
+                        <rect key="frame" x="60" y="221" width="71" height="30"/>
+                    </variation>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.69999999999999996" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="领取大神见面礼" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gjo-2g-d2Z">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                    <variation key="widthClass=compact" fixedFrame="YES">
+                        <rect key="frame" x="232" y="221" width="114" height="30"/>
+                    </variation>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="JQt-gC-ZbH"/>
+                    <exclude reference="6PD-fu-S5A"/>
+                    <exclude reference="mRC-px-IUS"/>
+                    <exclude reference="v8J-4n-0e7"/>
+                    <exclude reference="Gjo-2g-d2Z"/>
+                </mask>
+            </variation>
+            <variation key="widthClass=compact">
+                <mask key="subviews">
+                    <include reference="JQt-gC-ZbH"/>
+                    <include reference="6PD-fu-S5A"/>
+                    <include reference="mRC-px-IUS"/>
+                    <include reference="v8J-4n-0e7"/>
+                    <include reference="Gjo-2g-d2Z"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="imgView" destination="6PD-fu-S5A" id="Ce6-q8-78L"/>
+                <outlet property="lingquLabel" destination="Gjo-2g-d2Z" id="lSi-3s-NL9"/>
+                <outlet property="xinshouBtn" destination="JQt-gC-ZbH" id="GXu-JJ-qKb"/>
+                <outlet property="xinshouImgView" destination="mRC-px-IUS" id="Jeg-sh-4Dp"/>
+                <outlet property="xinshouLabel" destination="v8J-4n-0e7" id="90J-9S-TOZ"/>
+            </connections>
+            <point key="canvasLocation" x="80.5" y="244"/>
+        </collectionReusableView>
+    </objects>
+    <resources>
+        <image name="feedFlowRec_newuser.png" width="20" height="20"/>
+        <image name="head_book.png" width="375" height="210"/>
+    </resources>
+</document>

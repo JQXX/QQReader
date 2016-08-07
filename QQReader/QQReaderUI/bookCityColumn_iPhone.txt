@@ -1,0 +1,1308 @@
+{
+    "PageName": [
+        "HomePage_Mix",
+        "HomePage_Boy",
+        "HomePage_Girl",
+        "HomePage_Publish",
+        "ChannelPage_End",
+        "BookLibCategory"
+    ],
+    "HomePage_Mix": [
+        {
+            "type": "Adv",
+            "id": "102277"
+        },
+        {
+            "type": "Adv",
+            "id": "102305"
+        },
+        {
+            "type": "Col",
+            "title": "本期主打",
+            "display": "3",
+            "id": "1453",
+            "more": {
+                "action": "column",
+                "actionId": "1453",
+                "name": "更多",
+                "controllerTitle": "本期主打"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "热门精选",
+            "display": "3",
+            "id": "1454",
+            "more": {
+                "action": "column",
+                "actionId": "1454",
+                "name": "更多",
+                "controllerTitle": "热门精选"
+            }
+        },
+        {
+            "type": "Rec",
+            "title": "猜你喜欢",
+            "display": "3",
+            "id": "Rec_HomePage_Mix"
+        },
+        {
+            "type": "Col",
+            "title": "包月专区",
+            "id": "2003",
+            "more": {
+                "action": "column",
+                "actionId": "2003",
+                "name": "更多",
+                "controllerTitle": "包月专区"
+            }
+        },
+        {
+            "type": "Free",
+            "title": "今日限免",
+            "display": "3",
+            "id": "Free_HomePage_Mix",
+            "limit" : "1",
+            "more": {
+                "action": "freePage",
+                "actionId": "Mix_LimitFree",
+                "name": "更多",
+                "controllerTitle": "免费"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "男生最爱",
+            "id": "1459",
+            "more": {
+                "action": "columnPage",
+                "actionId": "HomePage_Boy",
+                "name": "更多",
+                "controllerTitle": "男生首页"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "女生最爱",
+            "id": "1460",
+            "more": {
+                "action": "columnPage",
+                "actionId": "HomePage_Girl",
+                "name": "更多",
+                "controllerTitle": "女生首页"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "出版图书",
+            "id": "1461",
+            "more": {
+                "action": "columnPage",
+                "actionId": "HomePage_Publish",
+                "name": "更多",
+                "controllerTitle": "出版首页"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102278",
+            "display": "4",
+            "title": "精彩专题",
+            "more":{
+                "action": "webpage",
+                "url": "/topic_list.html?aid=102278",
+                "name": "更多",
+                "controllerTitle": "专题"
+            }
+        }
+    ],
+    "HomePage_Publish": [
+        {
+            "type": "Adv",
+            "id": "102291"
+        },
+        {
+            "type": "Col",
+            "title": "独家首发",
+            "id": "1478",
+            "display": "3",
+        },
+        {
+            "type": "Col",
+            "title": "文学馆",
+            "id": "1479",
+            "display": "6",
+            "more": {
+                "action": "column",
+                "actionId": "1479",
+                "name": "更多",
+                "controllerTitle": "文学馆"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102292"
+        },
+        {
+            "type": "Col",
+            "title": "包月专区",
+            "id": "2006",
+            "display": "6",
+            "more": {
+                "action": "column",
+                "actionId": "2006",
+                "name": "更多",
+                "controllerTitle": "包月专区"
+            }
+        },
+        {
+            "type": "Free",
+            "title": "今日限免",
+            "id": "Free_HomePage_Publish",
+            "display": "3",
+            "limit" : "1",
+            "more": {
+                "action": "freePage",
+                "actionId": "Publish_LimitFree",
+                "name": "更多",
+                "controllerTitle": "免费"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102298"
+        },
+        {
+            "type": "Col",
+            "title": "经济馆",
+            "id": "1481",
+            "display": "6",
+            "more": {
+                "action": "column",
+                "actionId": "1481",
+                "name": "更多",
+                "controllerTitle": "经济馆"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102293"
+        },
+        {
+            "type": "Col",
+            "title": "励志馆",
+            "id": "1482",
+            "display": "6",
+            "more": {
+                "action": "column",
+                "actionId": "1482",
+                "name": "更多",
+                "controllerTitle": "励志馆"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102294"
+        },
+        {
+            "type": "Col",
+            "title": "生活馆",
+            "id": "1483",
+            "display": "6",
+            "more": {
+                "action": "column",
+                "actionId": "1483",
+                "name": "更多",
+                "controllerTitle": "生活馆"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102296"
+        },
+        {
+            "type": "Col",
+            "title": "社科馆",
+            "id": "1484",
+            "display": "6",
+            "more": {
+                "action": "column",
+                "actionId": "1484",
+                "name": "更多",
+                "controllerTitle": "社科馆"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102295"
+        },
+        {
+            "type": "Col",
+            "title": "精装书推荐",
+            "id": "1806",
+            "display": "6",
+            "more": {
+                "action": "column",
+                "actionId": "1806",
+                "name": "更多",
+                "controllerTitle": "精装书推荐"
+            }
+        },
+        {
+            "type": "Adv",
+            "title": "名家馆",
+            "id": "102310"
+        },
+        {
+            "type": "Adv",
+            "id": "102297",
+            "title": "精彩专题",
+            "display": "4",
+            "more":{
+                "action": "webpage",
+                "url": "/topic_list.html?aid=102297",
+                "name": "更多",
+                "controllerTitle": "专题"
+            }
+        },
+        {
+            "type": "Button",
+            "id": "publish_bottom_button",
+            "bottomButton":[
+                {
+                    "action": "columnPage",
+                    "actionId": "HomePage_Mix",
+                    "name": "随便看看",
+                    "controllerTitle": "随便看看"
+                }
+            ]
+        }
+    ],
+    "HomePage_Boy": [
+        {
+            "type": "Adv",
+            "id": "102279"
+        },
+        {
+            "type": "Adv",
+            "id": "102280"
+        },
+        {
+            "type": "StrongRec",
+            "title": "强力推荐",
+            "id": "StrongRec_HomePage_Boy",
+            "more": {
+                "action": "recommend",
+                "actionId": "1",
+                "name": "更多",
+                "controllerTitle": "强力推荐"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "热门连载",
+            "id": "1463",
+            "more": {
+                "action": "column",
+                "actionId": "1463",
+                "name": "更多",
+                "controllerTitle": "热门连载"
+            }
+        },
+        {
+            "type": "Rec",
+            "title": "猜你喜欢",
+            "display": "3",
+            "id": "Rec_HomePage_Boy"
+        },
+        {
+            "type": "Col",
+            "title": "包月专区",
+            "id": "2004",
+            "more": {
+                "action": "column",
+                "actionId": "2004",
+                "name": "更多",
+                "controllerTitle": "包月专区"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "新书抢鲜",
+            "id": "1465",
+            "more": {
+                "action": "column",
+                "actionId": "1465",
+                "name": "更多",
+                "controllerTitle": "新书抢鲜"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102283"
+        },
+        {
+            "type": "Col",
+            "id": "1466"
+        },
+        {
+            "type": "Free",
+            "title": "今日限免",
+            "id": "Free_HomePage_Boy",
+            "display": "3",
+            "limit" : "1",
+            "more": {
+                "action": "freePage",
+                "actionId": "Boy_LimitFree",
+                "name": "更多",
+                "controllerTitle": "免费"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "完结佳作",
+            "id": "1468",
+            "more": {
+                "action": "column",
+                "actionId": "1468",
+                "name": "更多",
+                "controllerTitle": "完结佳作"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "出版小说",
+            "id": "1469",
+            "more": {
+                "action": "column",
+                "actionId": "1469",
+                "name": "更多",
+                "controllerTitle": "出版小说"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "畅销榜",
+            "id": "500488",
+            "more": {
+                "action": "rank",
+                "actionId": "500435",
+                "name": "更多",
+                "controllerTitle": "热销榜"
+            },
+            "bottomButton": [
+                {
+                    "action": "rank",
+                    "actionId": "500438",
+                    "name": "完结榜",
+                    "controllerTitle": "男生完结精品榜"
+                },
+                {
+                    "action": "rank",
+                    "actionId": "500441",
+                    "name": "新书榜",
+                    "controllerTitle": "男生新书榜"
+                }, 
+                {
+                    "action": "rank",
+                    "actionId": "500444",
+                    "name": "免费榜",
+                    "controllerTitle": "男生免费榜"
+                }
+            ]
+        },
+        {
+            "type": "Adv",
+            "title": "大神专栏",
+            "id": "102308"
+        },
+        {
+            "type": "Adv",
+            "id": "102284",
+            "display": "4",
+            "title": "精彩专题",
+            "more":{
+                "action": "webpage",
+                "url": "/topic_list.html?aid=102284",
+                "name": "更多",
+                "controllerTitle": "专题"
+            }
+        },
+        {
+            "type": "Button",
+            "id": "boy_bottom_button",
+            "bottomButton":[
+                {
+                    "action": "columnPage",
+                    "actionId": "HomePage_Mix",
+                    "name": "随便看看",
+                    "controllerTitle": "随便看看"
+                }
+            ]
+        }
+    ],
+    "HomePage_Girl": [
+        {
+            "type": "Adv",
+            "id": "102285"
+        },
+        {
+            "type": "Adv",
+            "id": "102286"
+        },
+        {
+            "type": "StrongRec",
+            "title": "强力推荐",
+            "id": "StrongRec_HomePage_Girl",
+            "more": {
+                "action": "recommend",
+                "actionId": "2",
+                "name": "更多",
+                "controllerTitle": "强力推荐"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "新书速递",
+            "id": "1471",
+            "more": {
+                "action": "column",
+                "actionId": "1471",
+                "name": "更多",
+                "controllerTitle": "新书速递"
+            }
+        },
+        {
+            "type": "Rec",
+            "title": "猜你喜欢",
+            "display": "3",
+            "id": "Rec_HomePage_Girl"
+        },
+        {
+            "type": "Col",
+            "title": "包月专区",
+            "id": "2005",
+            "more": {
+                "action": "column",
+                "actionId": "2005",
+                "name": "更多",
+                "controllerTitle": "包月专区"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102289"
+        },
+        {
+            "type": "Col",
+            "id": "1473"
+        },
+        {
+            "type": "Col",
+            "title": "热门连载",
+            "id": "1474",
+            "more": {
+                "action": "column",
+                "actionId": "1474",
+                "name": "更多",
+                "controllerTitle": "热门连载"
+            }
+        },
+        {
+            "type": "Free",
+            "title": "今日限免",
+            "id": "Free_HomePage_Girl",
+            "display": "3",
+            "limit" : "1",
+            "more": {
+                "action": "freePage",
+                "actionId": "Girl_LimitFree",
+                "name": "更多",
+                "controllerTitle": "免费"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "完本红文",
+            "id": "1476",
+            "more": {
+                "action": "column",
+                "actionId": "1476",
+                "name": "更多",
+                "controllerTitle": "完本红文"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "出版小说",
+            "id": "1477",
+            "more": {
+                "action": "column",
+                "actionId": "1477",
+                "name": "更多",
+                "controllerTitle": "出版小说"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "畅销榜",
+            "id": "500489",
+            "more": {
+                "action": "rank",
+                "actionId": "500447",
+                "name": "更多",
+                "controllerTitle": "热销榜"
+            },
+            "bottomButton": [
+                {
+                    "action": "rank",
+                    "actionId": "500450",
+                    "name": "完结榜",
+                    "controllerTitle": "女生完结精品榜"
+                },
+                {
+                    "action": "rank",
+                    "actionId": "500453",
+                    "name": "新书榜",
+                    "controllerTitle": "女生新书榜"
+                },
+                {
+                    "action": "rank",
+                    "actionId": "500456",
+                    "name": "免费榜",
+                    "controllerTitle": "女生免费榜"
+                }
+
+            ]
+        },
+        {
+            "type": "Adv",
+            "title": "大神专栏",
+            "id": "102309"
+        },
+        {
+            "type": "Adv",
+            "id": "102290",
+            "display": "4",
+            "title": "精彩专题",
+            "more":{
+                "action": "webpage",
+                "url": "/topic_list.html?aid=102290",
+                "name": "更多",
+                "controllerTitle": "专题"
+            }
+        },
+        {
+            "type": "Button",
+            "id": "girl_bottom_button",
+            "bottomButton":[
+                {
+                    "action": "columnPage",
+                    "actionId": "HomePage_Mix",
+                    "name": "随便看看",
+                    "controllerTitle": "随便看看"
+                }
+            ]
+        }
+    ],
+
+    "BookLibCategory_boy": [
+       {
+            "type": "Adv",
+            "id": "102282",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_boy",
+            "name": "男生分类",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_publish",
+            "name": "出版分类",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_girl",
+            "name": "女生分类",
+        }
+
+    ],
+    "BookLibCategory_girl": [
+       {
+            "type": "Adv",
+            "id": "102288",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_girl",
+            "name": "女生分类",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_publish",
+            "name": "出版分类",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_boy",
+            "name": "男生分类",
+        }
+
+    ],
+    "BookLibCategory_publish": [
+       {
+            "type": "Adv",
+            "id": "102581",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_publish",
+            "name": "出版分类",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_boy",
+            "name": "男生分类",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_girl",
+            "name": "女生分类",
+        }
+
+    ],
+    "BookLibCategory_overall": [
+       {
+            "type": "Adv",
+            "id": "102581",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_boy",
+            "name": "男生分类",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_girl",
+            "name": "女生分类",
+        },
+        {
+            "type": "Col",
+            "id": "BookLibCategory_publish",
+            "name": "出版分类",
+        }
+    ],
+    "BookSearch": [
+        {
+            "type": "Adv",
+            "id": "102311",
+        }
+    ],
+    "Mix_LimitFree": [
+        {
+            "type": "Col",
+            "id": "Mix_LimitFree_all",
+            "title": "今日限免",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Mix_LimitFree_boy",
+            "title": "男生最爱",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Mix_LimitFree_girl",
+            "title": "女生最爱",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Mix_LimitFree_publish",
+            "title": "出版畅销",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Mix_LimitFree_free",
+            "title": "免费专区",
+            "more": {
+                "action": "column",
+                "actionId": "500469",
+                "name": "更多",
+                "controllerTitle": "免费专区"
+            }
+        },
+    ],
+    "Boy_LimitFree": [
+        {
+            "type": "Col",
+            "id": "Boy_LimitFree_all",
+            "title": "今日限免",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Boy_LimitFree_boy",
+            "title": "男生最爱",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Boy_LimitFree_girl",
+            "title": "女生最爱",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Boy_LimitFree_publish",
+            "title": "出版畅销",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Boy_LimitFree_free",
+            "title": "免费专区",
+            "more": {
+                "action": "column",
+                "actionId": "500503",
+                "name": "更多",
+                "controllerTitle": "免费专区"
+            }
+        },
+    ],
+    "Girl_LimitFree": [
+        {
+            "type": "Col",
+            "id": "Girl_LimitFree_all",
+            "title": "今日限免",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Girl_LimitFree_girl",
+            "title": "女生最爱",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Girl_LimitFree_boy",
+            "title": "男生最爱",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Girl_LimitFree_publish",
+            "title": "出版畅销",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Girl_LimitFree_free",
+            "title": "免费专区",
+            "more": {
+                "action": "column",
+                "actionId": "500504",
+                "name": "更多",
+                "controllerTitle": "免费专区"
+            }
+        },
+    ],
+    "Publish_LimitFree": [
+        {
+            "type": "Col",
+            "id": "Publish_LimitFree_all",
+            "title": "今日限免",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Publish_LimitFree_publish",
+            "title": "出版畅销",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Publish_LimitFree_boy",
+            "title": "男生最爱",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Publish_LimitFree_girl",
+            "title": "女生最爱",
+            "display": "6",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "Publish_LimitFree_free",
+            "title": "免费专区",
+            "more": {
+                "action": "column",
+                "actionId": "500505",
+                "name": "更多",
+                "controllerTitle": "免费专区"
+            }
+        },
+    ],
+    "BookDetailPage": [
+        {
+			"type": "Detail_BookInfo",
+			"id": "BookDetail_introInfo_Id"
+        },
+        {
+        	"type": "Detail_BookComment",
+        	"id": "BookDetail_commentInfo_Id",
+        	"display": "3",
+        },
+        {
+            "type": "Detail_Advert",
+            "id": "BookDetail_advert_Id",
+        },
+        {
+        	"type": "Detail_BookList",
+        	"id": "BookDetail_authorRec_Id",
+        	"display": "3",
+        	"detailbooklisttitle": "作者还写过",
+        },
+        {
+        	"type": "Detail_BookList",
+        	"id": "BookDetail_cataRec_Id",
+        	"display": "3",
+        	"detailbooklisttitle": "同类热门书籍",
+        },
+        {
+        	"type": "Detail_BookList",
+        	"id": "BookDetail_expRec_Id",
+        	"display": "3",
+        	"detailbooklisttitle": "书友还读过",
+        },
+        {
+            "type": "Detail_CopyRight",
+            "id": "BookDetail_copyRight_Id",
+        },
+    ],
+    "NonReadyBookDetailPage": [
+        {
+            "type": "Detail_BookInfo",
+            "id": "BookDetail_introInfo_Id"
+        },
+        {
+            "type": "Detail_BookList",
+            "id": "BookDetail_cataRec_Id",
+            "detailbooklisttitle": "小编推荐",
+        }
+    ],
+    "FoundFree_Boy": [
+        {
+            "type": "Adv",
+            "id": "102576"
+        },
+        {
+            "type": "Col",
+            "id": "1512",
+            "title": "男生限免",
+            "display": "3",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "title": "免费精品",
+            "display": "3",
+            "id": "2045",
+            "bottom":"1",
+            "more": {
+                "action": "column",
+                "actionId": "2045",
+                "name": "查看更多",
+                "controllerTitle": "免费精品"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "免费新书",
+            "display": "3",
+            "id": "2044",
+            "bottom":"1",
+            "more": {
+                "action": "column",
+                "actionId": "2044",
+                "name": "查看更多",
+                "controllerTitle": "免费新书"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "午夜专场",
+            "display": "3",
+            "id": "2046",
+        },
+        {
+        "type": "Col",
+        "title": "本周集赞胜出",
+        "display": "2",
+        "id": "2048",
+        "jzqmLimit":"1",
+        },
+        {
+            "type": "Col",
+            "title": "集赞求免",
+            "display": "6",
+            "id": "2047",
+        }
+
+    ],
+    "FoundFree_Girl": [
+        {
+            "type": "Adv",
+            "id": "102577"
+        },
+        {
+            "type": "Col",
+            "id": "1513",
+            "title": "女生限免",
+            "display": "3",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "title": "免费精品",
+            "display": "3",
+            "id": "2050",
+            "bottom":"1",
+            "more": {
+                "action": "column",
+                "actionId": "2050",
+                "name": "查看更多",
+                "controllerTitle": "免费精品"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "免费新书",
+            "display": "3",
+            "id": "2049",
+            "bottom":"1",
+            "more": {
+                "action": "column",
+                "actionId": "2049",
+                "name": "查看更多",
+                "controllerTitle": "免费新书"
+            }
+        },
+
+        {
+            "type": "Col",
+            "title": "午夜专场",
+            "display": "3",
+            "id": "2051",
+        },
+        {
+        "type": "Col",
+        "title": "本周集赞胜出",
+        "display": "2",
+        "id": "2053",
+        "jzqmLimit":"1",
+        },
+        {
+            "type": "Col",
+            "title": "集赞求免",
+            "display": "6",
+            "id": "2052",
+        }
+        
+    ],
+    "FoundFree_Publish": [
+        {
+            "type": "Adv",
+            "id": "102578"
+        },
+        {
+            "type": "Col",
+            "id": "1514",
+            "title": "出版限免",
+            "display": "3",
+            "limit" : "1",
+        },
+        {
+            "type": "Col",
+            "id": "2054",
+            "title": "免费新书",
+            "display": "6",
+        },
+        {
+            "type": "Col",
+            "id": "2055",
+            "title": "深夜静读",
+            "display": "6",
+        },
+        {
+        "type": "Col",
+        "title": "本周集赞胜出",
+        "display": "2",
+        "id": "2057",
+        "jzqmLimit":"1",
+        },
+        {
+            "type": "Col",
+            "title": "集赞求免",
+            "display": "6",
+            "id": "2056",
+        }
+        
+    ],
+        "FoundMonth_Boy": [
+        {
+            "type": "Adv",
+            "id": "102570"
+        },
+        {
+        "type": "Adv",
+        "id": "102586"
+        },
+        {
+            "type": "Col",
+            "id": "2029",
+            "title": "最受关注",
+            "display": "3",
+        },
+        {
+            "type": "Col",
+            "id": "2030",
+            "title": "热门推荐",
+            "display": "3",
+            "bottom":"1",
+            "more": {
+            "action": "column",
+            "actionId": "2030",
+            "name": "查看更多",
+            "controllerTitle": "热门推荐"
+            }
+        },
+        {
+            "type": "Col",
+            "id": "2031",
+            "title": "完本红本",
+            "display": "3",
+            "bottom":"1",
+            "more": {
+            "name": "换一换",
+            }
+        },
+        {
+            "type": "Col",
+            "id": "2032",
+            "title": "新书速递",
+            "display": "6",
+            "bottom":"1",
+            "more": {
+            "action": "column",
+            "actionId": "2032",
+            "name": "查看更多",
+            "controllerTitle": "新书速递"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102573",
+            "title": "最热书单",
+            "display": "3",
+            "bottom":"1",
+            "more": {
+            "action": "ads",
+            "actionId": "102573",
+            "name": "查看更多",
+            "controllerTitle": "最热书单"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "包月人气榜",
+            "display": "5",
+            "id": "501172",
+            "bottom":"1",
+            "more": {
+            "action": "rank",
+            "actionId": "501172",
+            "name": "查看更多",
+            "controllerTitle": "包月人气榜"
+            }
+        }
+
+    ],
+        "FoundMonth_Girl": [
+        {
+            "type": "Adv",
+            "id": "102571"
+        },
+        {
+        "type": "Adv",
+        "id": "102586"
+        },
+        {
+            "type": "Col",
+            "id": "2033",
+            "title": "最受关注",
+            "display": "3",
+        },
+        {
+            "type": "Col",
+            "id": "2034",
+            "title": "热门推荐",
+            "display": "3",
+            "bottom":"1",
+            "more": {
+            "action": "column",
+            "actionId": "2034",
+            "name": "查看更多",
+            "controllerTitle": "热门推荐"
+            }
+        },
+        {
+            "type": "Col",
+            "id": "2035",
+            "title": "完本红本",
+            "display": "3",
+            "bottom":"1",
+            "more": {
+            "name": "换一换",
+            }
+        },
+        {
+            "type": "Col",
+            "id": "2036",
+            "title": "新书速递",
+            "display": "6",
+            "bottom":"1",
+            "more": {
+            "action": "column",
+            "actionId": "2036",
+            "name": "查看更多",
+            "controllerTitle": "新书速递"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102574",
+            "title": "最热书单",
+            "display": "3",
+            "bottom":"1",
+            "more": {
+            "action": "column",
+            "actionId": "102574",
+            "name": "查看更多",
+            "controllerTitle": "最热书单"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "包月人气榜",
+            "display": "5",
+            "id": "501173",
+            "bottom":"1",
+            "more": {
+            "action": "rank",
+            "actionId": "501173",
+            "name": "查看更多",
+            "controllerTitle": "包月人气榜"
+            }
+        }
+
+    ],
+        "FoundMonth_Publish": [
+        {
+            "type": "Adv",
+            "id": "102572"
+        },
+        {
+        "type": "Adv",
+        "id": "102586"
+        },
+        {
+            "type": "Col",
+            "id": "2039",
+            "title": "最受关注",
+            "display": "3",
+        },
+        {
+            "type": "Col",
+            "id": "2040",
+            "title": "新书速递",
+            "display": "6",
+            "bottom":"1",
+            "more": {
+            "name": "换一换",
+            }
+        },
+        {
+            "type": "Col",
+            "id": "2041",
+            "title": "精品回顾",
+            "display": "6",
+            "bottom":"1",
+            "more": {
+            "action": "column",
+            "actionId": "2041",
+            "name": "查看更多",
+            "controllerTitle": "精品回顾"
+            }
+        },
+        {
+            "type": "Adv",
+            "id": "102575",
+            "title": "最热书单",
+            "display": "3",
+            "bottom":"1",
+            "more": {
+            "action": "column",
+            "actionId": "102575",
+            "name": "查看更多",
+            "controllerTitle": "最热书单"
+            }
+        },
+        {
+            "type": "Col",
+            "title": "包月人气榜",
+            "display": "5",
+            "id": "501174",
+            "bottom":"1",
+            "more": {
+            "action": "rank",
+            "actionId": "501174",
+            "name": "查看更多",
+            "controllerTitle": "包月人气榜"
+            }
+        }
+
+    ],
+    "BookShelfAd": [
+        {
+            "type": "Adv",
+            "id": "102579",
+        }
+    ],
+    "FeedFlowButtonAd": [
+        {
+            "type": "Adv",
+            "id": "102799",
+        }
+    ],
+}

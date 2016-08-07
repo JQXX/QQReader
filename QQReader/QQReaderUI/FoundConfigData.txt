@@ -1,0 +1,90 @@
+{
+
+"list":[
+         {
+         "adList": [
+                        {
+                            "imageUrl": "found_icon_the_charts",
+                            "url": "rankindex",
+                            "title": "排行榜",
+                            "action": "nativePage",
+                            "extInfo": {
+                                "icon": "",
+                                "desc": "",
+                                "type": "0"
+                            },
+                            "actionId": "rankindex",
+                        }
+                    ]
+        },
+        {
+        "adList":  [
+                        {
+                            "title": "书评广场",
+                            "imageUrl": "found_icon_bookcomment",
+                            "action": "nativePage",
+                            "extInfo": {
+                                "icon": "",
+                                "desc": "",
+                                "type": "0"
+                            },
+                            "actionId": "commentarea",
+                        },
+
+                        {
+                            "imageUrl": "found_icon_special",
+                            "url": "topicindex",
+                            "title": "专题",
+                            "action": "nativePage",
+                            "extInfo": {
+                                "icon": "",
+                                "desc": "",
+                                "type": "0"
+                            },
+                            "actionId": "topicindex",
+                        }
+                    ]
+        },
+        {
+        "adList": [
+                        {
+                            "imageUrl": "found_icon_monthly",
+                            "url": "viparea",
+                            "title": "包月专区",
+                            "action": "nativePage",
+                            "extInfo": {
+                                "icon": "",
+                                "desc": "",
+                                "type": "0"
+                            },
+                            "actionId": "viparea",
+                        },
+                        {
+                            "imageUrl": "found_icon_free",
+                            "url": "freearea",
+                            "title": "今日免费",
+                            "action": "nativePage",
+                            "extInfo": {
+                                "icon": "",
+                                "desc": "",
+                                "type": "0"
+                            },
+                            "actionId": "freearea",
+                        },
+                        {
+                            "imageUrl": "found_icon_famous",
+                            "url": "author",
+                            "title": "名人堂",
+                            "action": "nativePage",
+                            "extInfo": {
+                                "icon": "",
+                                "desc": "",
+                                "type": "0"
+                            },
+                            "actionId": "author",
+                        }
+                    ]
+         }
+         ],
+
+}
